@@ -111,7 +111,7 @@
             "description": "Who am i",
             "about": {
                 "description": [
-                    "I’m a self-taught front-end developer based in Kerala, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
+                    "I’m a self-taught back-end developer based in Kerala, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
                     "Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. ",
                     "I always strive to learn about the newest technologies and frameworks. "
                 ]
@@ -123,10 +123,10 @@
                 "title": "fun-facts",
                 "list": [
                     "I like winter more than summer", 
-                    "I often bike with my friends",
-                    "I like pizza and pasta", 
+                    "I often travel with my friends",
+                    "I like ice-cream and gulabjamun", 
                     "I was in Kerala, Bangalore and Gujarat",
-                    "I’m still studying in college", 
+                    "I’m studying in Government engineering college Idukki", 
                     "My favorite movie is The Green Mile"
                 ]
             }

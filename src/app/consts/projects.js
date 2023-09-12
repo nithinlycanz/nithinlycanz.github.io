@@ -54,16 +54,16 @@ const projects = [
         },
         hasImage: true,
     },
-   /* {
+   {
         id: "portfolio",
         techs: ["js", "sass", "webpack"],
         links: {
-            figma: "1164933568884615740",
-            github: "/portfolio",
+            figma: "",
+            github: "/nithinlycanz.github.io",
         },
         hasImage: true,
     },
-
+ /*
     {
         id: "discordbot",
         techs: ["ts", "discordJs", "node"],

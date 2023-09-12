@@ -2,7 +2,7 @@
  * @type {import("../../types/Project").Project[]}
  */
 const projects = [
-    {
+ /*   {
         id: "deplos",
         links: {
             figma: "1198393124994627983",
@@ -44,17 +44,17 @@ const projects = [
             github: "/kahoot-answers",
         },
         hasImage: true,
-    },
+    },*/
     {
         id: "kotikbot",
         techs: ["html", "css", "js"],
         links: {
-            live: "kotikbot.github.io",
-            github: "kotikbot/kotikbot.github.io",
+            live: "",
+            github: "/nithinlycanz/Torrent1.0.1",
         },
         hasImage: true,
     },
-    {
+   /* {
         id: "portfolio",
         techs: ["js", "sass", "webpack"],
         links: {
@@ -87,7 +87,7 @@ const projects = [
             live: "madhost.pw",
         },
         hasImage: true,
-    },
+    }, */
 ];
 
 export default projects;

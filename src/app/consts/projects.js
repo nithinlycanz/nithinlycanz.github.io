@@ -50,7 +50,7 @@ const projects = [
         techs: ["html", "css", "js"],
         links: {
             live: "dailight.eu.org",
-            github: "/nithinlycanz/Torrent1.0.1",
+            github: "/Torrent1.0.1",
         },
         hasImage: true,
     },

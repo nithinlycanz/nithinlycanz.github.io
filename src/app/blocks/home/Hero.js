@@ -11,7 +11,7 @@ export default (t) => {
             <div class="hero__illustrations">
                 <img src="/images/logo-outline.svg" alt="" class="hero__logo">
                 <img src="/images/hero.png" alt="Nithin" class="hero__image">
-                <div class="hero__status">${t.status} <a href="https://nithinlycanz.github.io">Portfolio</a></div>
+                <div class="hero__status">${t.status} <a href="https://nithinlycanz.eu.org">Portfolio</a></div>
                 ${Dots({})}
             </div>
         </section>

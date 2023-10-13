@@ -49,7 +49,7 @@ const projects = [
         id: "kotikbot",
         techs: ["html", "css", "js"],
         links: {
-            live: "https://nithinlycanz.github.io/Torrent1.0.1/",
+            live: "nithinlycanz.github.io/Torrent1.0.1/",
             github: "/Torrent1.0.1",
         },
         hasImage: true,

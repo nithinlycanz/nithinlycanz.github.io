@@ -22,10 +22,11 @@ If you have any questions you can message me on discord: **lycanz#5984**
 ## Basic for using my code is given here ## 
 
 Step 1
-        go to main index.js and run it
+        go to main index.js 
+       
+        $run it
 
         
-
 Step 2
          install npm packages
 

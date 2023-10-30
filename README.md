@@ -44,7 +44,8 @@ Step 4
 
 Step 5  
         IT WILL RUN ON 
-        http://localhost:9000/
+        
+        $ http://localhost:9000/
 
 
 Step 6 

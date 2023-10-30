@@ -1,8 +1,9 @@
 HEYYA BUDDY 😎✨
 # My Portfolio #
+![Screenshot (1795)](https://github.com/nithinlycanz/nithinlycanz.github.io/assets/81744339/a32ee401-f031-4d05-99cf-6bb440657249)
 ![Screenshot (1798)](https://github.com/nithinlycanz/nithinlycanz.github.io/assets/81744339/a46e4b49-6d78-472e-8d00-561bb51493b3)
 ![Screenshot (1797)](https://github.com/nithinlycanz/nithinlycanz.github.io/assets/81744339/f89113ab-c622-44df-ac8c-6943a7d1f911)
-![Screenshot (1795)](https://github.com/nithinlycanz/nithinlycanz.github.io/assets/81744339/a32ee401-f031-4d05-99cf-6bb440657249)
+
 Written in vanilla js.
 
 If you have any questions you can message me on discord: **lycanz#5984**  

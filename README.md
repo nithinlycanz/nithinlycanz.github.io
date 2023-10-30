@@ -43,13 +43,13 @@ Step 4
         $ npm run-script build serve
 
 Step 5  
-        it will run on
+        It will run on url
         
         $ http://localhost:9000/
 
 
 Step 6 
-        tah dah ... 
+        tah dah ........ 
 
 
 

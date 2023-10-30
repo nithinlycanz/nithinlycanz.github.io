@@ -4,7 +4,7 @@ HEYYA BUDDY 😎✨
 ![Screenshot (1798)](https://github.com/nithinlycanz/nithinlycanz.github.io/assets/81744339/a46e4b49-6d78-472e-8d00-561bb51493b3)
 ![Screenshot (1797)](https://github.com/nithinlycanz/nithinlycanz.github.io/assets/81744339/f89113ab-c622-44df-ac8c-6943a7d1f911)
 
-Written in vanilla js.
+**Written in vanilla js**
 
 If you have any questions you can message me on discord: **lycanz#5984**  
 *PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  

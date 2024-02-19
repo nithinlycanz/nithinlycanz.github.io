@@ -57,16 +57,6 @@ const projects = [
     },
     
     {
-        id: "deplos",
-        links: {
-            github: "/WebRTC-Firebase-Project",
-            live: "nithin.is-a.dev/WebRTC-Firebase-Project"
-        },
-        techs: ["js", "css", "html", "firebase"],
-        isSmall: true,
-        
-    },
-    {
         id: "portfolio",
         techs: ["js", "sass", "webpack"],
         links: {
@@ -114,7 +104,17 @@ const projects = [
         isSmall: true,
         hasImage: true,
     },
- /*
+    {
+        id: "deplos",
+        links: {
+            github: "/WebRTC-Firebase-Project",
+            live: "nithin.is-a.dev/WebRTC-Firebase-Project"
+        },
+        techs: ["js", "css", "html", "firebase"],
+        isSmall: true,
+        
+    },
+    /*
     {
         id: "discordbot",
         techs: ["ts", "discordJs", "node"],

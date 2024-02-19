@@ -32,7 +32,7 @@
         },
         "kotikbot": {
             "name": "DayLight",
-            "description": "A torrent client that can download torrents from the internet using magnet links or torrent files."
+            "description": "A lite weight torrent client - uses magnet links."
         },
         "portfolio": {
             "name": "This Portfolio",

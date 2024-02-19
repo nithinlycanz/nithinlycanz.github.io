@@ -6,7 +6,7 @@ const projects = [
         id: "deplos",
         links: {
             figma: "1198393124994627983",
-            live: "deplos.com"
+            live: "https://github.com/nithinlycanz/Soccer-League"
         },
         techs: ["pug", "stylus", "node"],
         hasImage: true,
@@ -14,7 +14,7 @@ const projects = [
     {
         id: "feedrum",
         links: {
-            github: "Feedrum-Project/feedrum-next",
+            github: "https://github.com/nithinlycanz/Soccer-League",
             live: "feedrum.com"
         },
         techs: ["node", "next", "react", "zod"],
@@ -45,22 +45,73 @@ const projects = [
         },
         hasImage: true,
     },*/
+
     {
         id: "kotikbot",
-        techs: ["html", "css", "js"],
+        techs: ["html", "css", "node"],
         links: {
             live: "nithinlycanz.github.io/Torrent1.0.1/",
             github: "/Torrent1.0.1",
         },
         hasImage: true,
     },
-   {
+    
+    {
+        id: "deplos",
+        links: {
+            github: "/WebRTC-Firebase-Project",
+            live: "nithin.is-a.dev/WebRTC-Firebase-Project"
+        },
+        techs: ["js", "css", "html", "firebase"],
+        isSmall: true,
+        
+    },
+    {
         id: "portfolio",
         techs: ["js", "sass", "webpack"],
         links: {
             figma: "",
             github: "/nithinlycanz.github.io",
         },
+        hasImage: true,
+    },
+    {
+        id: "chesspro",
+        techs: ["react", "node", "express", "mongo"],
+        links: {
+            github: "/film-web",
+            live: "nithin.is-a.dev/film-web"
+        },
+        hasImage: true,
+    },
+    {
+        id: "madhost",
+        techs: ["less", "html"],
+        links: {
+            github: "/Soccer-League",
+            live: "nithin.is-a.dev/Soccer-League"
+        },
+        isSmall: true,
+        hasImage: true,
+    },
+   
+    {
+        id: "feedrum",
+        links: {
+            github: "/AL-KHAMIS",
+            live: "nithin.is-a.dev/AL-KHAMIS/"
+        },
+        techs: ["js", "css", "html"],
+        hasImage: true,
+    },
+    {
+        id: "discordbot",
+        techs: ["js"],
+        links: {
+            github: "/shiny-chainsaw",
+            live: "nithin.is-a.dev/shiny-chainsaw"
+        },
+        isSmall: true,
         hasImage: true,
     },
  /*

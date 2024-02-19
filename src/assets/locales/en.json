@@ -32,7 +32,7 @@
         },
         "kotikbot": {
             "name": "DayLight",
-            "description": "A new way of using Torrent(1.0.1)"
+            "description": "A torrent client that can download torrents from the internet using magnet links or torrent files."
         },
         "portfolio": {
             "name": "This Portfolio",
@@ -43,28 +43,28 @@
             "description": "Front-end of my future blog website"
         },
         "discordbot": {
-            "name": "Discord Bot Boilerplate",
-            "description": "Start creating scalable discord.js bot with typescript in seconds"
+            "name": "Just an Animated name",
+            "description": "A simple fun way to represent your name"
         },
         "chesspro": {
-            "name": "Chess PRO",
-            "description": "Landing page about service for viewing chess tournaments"
+            "name": "FilmWeb",
+            "description": "Typescript movie search website"
         },
         "ooku": {
             "name": "Ooku",
             "description": "Link shortener with discord auth"
         },
         "madhost": {
-            "name": "MadHost",
-            "description": "Minecraft and websites hosting with low prices"
+            "name": "Soccer-League",
+            "description": "A website that shows the current score of soccer matches or events"
         },
         "feedrum": {
-            "name": "Feedrum",
-            "description": "Indian social network designed for programmers"
+            "name": "AlKhamis",
+            "description": "This is a Construction Company Website"
         },
         "deplos": {
-            "name": "Deplos",
-            "description": "Game servers hosting"
+            "name": "VCU",
+            "description": "Video Chat with WebRTC and Firebase"
         }
     },
     "pages": {

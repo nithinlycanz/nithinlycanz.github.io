@@ -233,7 +233,7 @@ eval("var map = {\n\t\"./About\": [\n\t\t\"./src/app/views/About.js\",\n\t\t\"sr
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "js/" + {"src_app_views_About_js":"459707b3be270cec240b","src_app_views_Contacts_js":"560ef71063b129da344c","src_app_views_Home_js":"b79c246169fcb6ce43ed","src_app_views_PageNotFound_js":"889f973003c86d2b46df","src_app_views_Projects_js":"190f6737d63510c0369d"}[chunkId] + ".js";
+/******/ 			return "js/" + {"src_app_views_About_js":"459707b3be270cec240b","src_app_views_Contacts_js":"560ef71063b129da344c","src_app_views_Home_js":"0d94675582804a9c0dab","src_app_views_PageNotFound_js":"889f973003c86d2b46df","src_app_views_Projects_js":"f213e92867858cff7ada"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
@@ -336,7 +336,7 @@ eval("var map = {\n\t\"./About\": [\n\t\t\"./src/app/views/About.js\",\n\t\t\"sr
 /******/ 				var scripts = document.getElementsByTagName("script");
 /******/ 				if(scripts.length) {
 /******/ 					var i = scripts.length - 1;
-/******/ 					while (i > -1 && !scriptUrl) scriptUrl = scripts[i--].src;
+/******/ 					while (i > -1 && (!scriptUrl || !/^http(s?):/.test(scriptUrl))) scriptUrl = scripts[i--].src;
 /******/ 				}
 /******/ 			}
 /******/ 		}
@@ -374,6 +374,7 @@ eval("var map = {\n\t\"./About\": [\n\t\t\"./src/app/views/About.js\",\n\t\t\"sr
 /******/ 			}
 /******/ 			linkTag.onerror = linkTag.onload = onLinkComplete;
 /******/ 			linkTag.href = fullhref;
+/******/ 		
 /******/ 		
 /******/ 			if (oldTag) {
 /******/ 				oldTag.parentNode.insertBefore(linkTag, oldTag.nextSibling);
